@@ -52,7 +52,10 @@ This project contains a series of assembly programs written for ICS3203, simulat
 3. **Run the Program**:
    - Execute the compiled program:
      ```bash
-     ./<filename>
+     ./task1.s
+     ./task2.s
+     ./task3.s
+     ./task4.s
      ```
 
 ---
